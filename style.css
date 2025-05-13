@@ -50,7 +50,7 @@ Version:	1.1
 ===============================*/
 @font-face {
   font-family: 'svn-merges'; /* Đặt một tên tùy ý cho font của bạn */
-  src: url('../HoangKimHealthcareTech/fonts/SVN-Merges-Regular.otf') format('opentype');
+  src: url('fonts/SVN-Merges-Regular.otf') format('opentype');
   /* Có thể thêm các định dạng khác như eot, svg nếu cần hỗ trợ trình duyệt cũ */
   font-weight: normal; /* Hoặc bold, italic, v.v. tùy thuộc vào file font */
   font-style: normal;  /* Hoặc italic */
