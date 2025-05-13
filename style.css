@@ -48,6 +48,14 @@ Version:	1.1
 /*=============================
 	Global CSS 
 ===============================*/
+@font-face {
+  font-family: 'svn-merges'; /* Đặt một tên tùy ý cho font của bạn */
+  src: url('SVN-Merges Regular.otf') format('otf');
+  /* Có thể thêm các định dạng khác như eot, svg nếu cần hỗ trợ trình duyệt cũ */
+  font-weight: normal; /* Hoặc bold, italic, v.v. tùy thuộc vào file font */
+  font-style: normal;  /* Hoặc italic */
+  /* display: swap; */ /* (Tùy chọn) Giúp hiển thị văn bản nhanh hơn trong khi font đang tải */
+}
 body{
     font-family: 'svn-merges', sans-serif;
 	font-weight: 400;
